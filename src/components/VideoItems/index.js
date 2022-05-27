@@ -45,4 +45,4 @@ const VideoCard = props => {
   )
 }
 
-export default VideoCardTwo
+export default VideoCard
